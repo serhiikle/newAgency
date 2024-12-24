@@ -2,12 +2,10 @@
 @import '_vars';
 @import '_fonts';
 @import '_global';
-@import '_components';
 
-@import '_header';
+@import 'components/_mobile_menu.scss';
 
-@import '_footer';
-
-
+@import 'pages/_header';
+@import 'pages/_footer';
 
 @import '_media';

@@ -11,12 +11,12 @@ html {
 }
 
 body {
-  background-color: $mainBgColor;
-  color: $mainkColor;
   font-family: "Work Sans", sans-serif;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 2;
+  max-width: 144rem;
+  margin: 0 auto;
   // overflow: hidden;
 }
 
